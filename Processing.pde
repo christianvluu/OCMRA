@@ -1,3 +1,7 @@
+//this is the Processing code; run it in Processing
+//remember to install the Leap Motion library for Processing, and include Processing's Serial library
+
+
 import de.voidplus.leapmotion.*;
 import processing.serial.*;
 
@@ -16,7 +20,7 @@ import processing.serial.*;
 LeapMotion leap;
 Serial geekduino;
 
-//to be more accurate, create these max/min values by recording init position then addint half of difference
+//to be more accurate, create these max/min values by recording init position then adding half of difference
 int LM_MAX_Y = 400; //foward center
 int LM_MIN_Y = 0; //reverse center
 int LM_MAX_X = 650; //right center
