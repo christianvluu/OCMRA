@@ -1,7 +1,7 @@
 # OCMRA
 ## Optically Controlled Miniature Robotic Arm
 
-Created as part of an research internship at the Ho Chi Minh University of Sciences by Christian Luu and Thien Thai Vu.
+Created as part of a research internship at the Ho Chi Minh University of Sciences by Christian Luu and Thien Thai Vu.
 
 PLEASE READ EVERYTHING BELOW
 
